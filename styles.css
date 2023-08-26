@@ -130,6 +130,12 @@ body, html, main {
   word-break: break-word;
 }
 
+@media(max-width: 1000px) {
+  .container {
+    padding: 0 20px;
+  }
+}
+
 
 
 
